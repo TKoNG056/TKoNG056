@@ -1,21 +1,53 @@
-┌──────────────────────────────────────────────┐
-│                KANTAPAT                      │
-│      Full Stack Developer                    │
-│  Angular • React • C# • Docker • NestJS      │
-└──────────────────────────────────────────────┘
+# Hi 👋 I'm Kantapat Suwanmuey
 
-⌨️ Typing Animation
+💻 Full Stack Developer
 
-👨‍💻 About Me
+🎓 Bachelor of Science in Computer Science, KMITL
 
-🛠 Tech Stack (Icons)
+---
 
-📊 GitHub Stats
+## 🚀 Tech Stack
 
-🔥 Streak
+### Frontend
+- Angular
+- React
+- Next.js
+- TypeScript
 
-📈 Activity Graph
+### Backend
+- C#
+- .NET
+- NestJS
+- Flask
 
-📂 Featured Projects
+### Database
+- SQL Server
+- PostgreSQL
+- MySQL
 
-📫 Contact
+### Tools
+- Docker
+- Git
+- Nginx
+- Postman
+- Figma
+
+---
+
+## 📂 Featured Projects
+
+- 📦 Warehouse Management System
+- 💊 Medicine Management System
+- 🎓 E-learning Platform
+- 🎬 StreamVid
+- 🤖 AI Music Recommendation
+
+---
+
+## 📫 Contact
+
+📧 Email: koontonyv1@gmail.com
+
+🌐 Portfolio: *(ใส่ลิงก์ Portfolio)*
+
+💼 LinkedIn: *(ใส่ลิงก์ LinkedIn)*
